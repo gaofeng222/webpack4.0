@@ -1,0 +1,17 @@
+*{
+    margin : 0;
+    padding : 0;
+}
+body{
+    background : #dedede;
+    color : red
+}
+#tupian{
+    background-image: url(../images/a.jpg);
+    background-repeat: no-repeat;
+    width :200px;
+    height: 200px
+ }
+ img {
+     margin-top : 100px;
+ }
